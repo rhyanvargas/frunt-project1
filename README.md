@@ -1,2 +1,2 @@
 # frunt-project1
-Using frunt modern framework to develop a website
+Using the frunt modern framework to develop a website. Original frunt repo here: https://github.com/picdorsey/frunt
